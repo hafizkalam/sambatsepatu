@@ -97,8 +97,8 @@ CREATE TABLE `treatment` (
 --
 
 INSERT INTO `treatment` (`id_treatment`, `jenis_treatment`, `harga_treatment`) VALUES
-(1, 'Fast Clean', 5000),
-(2, 'Deep Clean', 10000);
+(1, 'Fast Clean', 25000),
+(2, 'Deep Clean', 30000);
 
 -- --------------------------------------------------------
 
@@ -122,13 +122,13 @@ CREATE TABLE `user` (
 
 INSERT INTO `user` (`id_user`, `nama`, `alamat`, `no_telp`, `username`, `password`, `level`) VALUES
 (1, 'admin', 'Jl Kahuripan ', 823123123, 'admin', 'admin', 0),
-(2, 'Rafli', 'Jl Kenanga-', 82312348, 'rafli', 'rafli', 1),
-(6, 'keceng', 'bareng', 82313, 'keceng', 'keceng', 1);
+(2, 'Hafiz', 'Kota Malang', 65141, 'hafiz', 'hafiz.123', 1),
+(6, 'Kalam', 'Kabupaten Malang', 65152, 'kalam', 'kalam', 1);
 
 --
 -- Indexes for dumped tables
 --
-
+ 
 --
 -- Indexes for table `sepatu`
 --
