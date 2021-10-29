@@ -59,7 +59,7 @@ CREATE TABLE `transaksi` (
   `total_bayar` int NOT NULL,
   `status` int NOT NULL DEFAULT '0'
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
-
+1 
 --
 -- Dumping data for table `transaksi`
 --

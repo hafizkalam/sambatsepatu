@@ -115,7 +115,7 @@ include('config.php');
     <!-- Content Header (Page header) -->
     <section class="content-header">
       <div class="container-fluid">
-      <img src="assets/images/backgroud.jpg" width="1000px" height="800px"/>
+      <img src="assets/images/https://objectstorage.ap-osaka-1.oraclecloud.com/n/ax4m4vhtdupt/b/bucket-20211029-1826/o/backgroundbackgroud.jpg " width="1000px" height="800px"/>
       </div><!-- /.container-fluid -->
     </section>
 
